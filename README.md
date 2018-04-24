@@ -3,7 +3,7 @@
 ## Dev, Build and Test
 
 
-## Resources
+## Resources -- Made a few changes
 
 
 ## Description of Files and Directories
